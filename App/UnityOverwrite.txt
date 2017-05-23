@@ -7,9 +7,9 @@
 # Default behavior is to never overwrite files
 Holo-NavMesh.sln: 11882CEF44B21192C43EE972BE16B6C8
 Holo-NavMesh\App.cs: 38EEB1F417EF5C56F5D1803FB35C7DAC
-Holo-NavMesh\Holo-NavMesh.csproj: D4643C32E64DBBE41E29FABF1F5A709B
-Holo-NavMesh\Holo-NavMesh.csproj.user: modified
-Holo-NavMesh\Package.appxmanifest: modified
+Holo-NavMesh\Holo-NavMesh.csproj: 31FD550C2AAE53AC346F540C1ABF5672
+Holo-NavMesh\Holo-NavMesh.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
+Holo-NavMesh\Package.appxmanifest: 730D06FE1B41DA23F88F15AE94A9980A
 Holo-NavMesh\project.json: 1D02BC64BAC0D041019673A1C4C51737
 Holo-NavMesh\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
 Holo-NavMesh\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
