@@ -1,11 +1,14 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyAssets\MoveToTapPoint.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyAssets\other\TapToShow.cs">
     <Files>
-      <File FileName="Assets\MyAssets\SpatialMappingNavMesh.cs" Line="1" Column="1" />
-      <File FileName="Assets\MyAssets\UnityChanAnimate.cs" Line="1" Column="1" />
-      <File FileName="Assets\UnityChan\Scripts\AutoBlink.cs" Line="1" Column="1" />
-      <File FileName="Assets\MyAssets\MoveToTapPoint.cs" Line="34" Column="96" />
+      <File FileName="Assets\MyAssets\SpatialMappingNavMesh.cs" Line="8" Column="25" />
+      <File FileName="Assets\MyAssets\UnityChanAnimate.cs" Line="19" Column="3" />
+      <File FileName="Assets\MyAssets\MoveToTapPoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyAssets\LocalNavMeshBuilder.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyAssets\NavMeshSourceTag.cs" Line="1" Column="19" />
+      <File FileName="Assets\HoloToolkit\Input\Scripts\Interactions\HandDraggable.cs" Line="280" Column="32" />
+      <File FileName="Assets\MyAssets\other\TapToShow.cs" Line="16" Column="45" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
