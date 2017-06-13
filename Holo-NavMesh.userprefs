@@ -1,18 +1,18 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyAssets\other\TapToShow.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\InkPainter\Script\Core\InkCanvas.cs">
     <Files>
-      <File FileName="Assets\MyAssets\SpatialMappingNavMesh.cs" Line="8" Column="25" />
-      <File FileName="Assets\MyAssets\UnityChanAnimate.cs" Line="19" Column="3" />
-      <File FileName="Assets\MyAssets\MoveToTapPoint.cs" Line="1" Column="1" />
-      <File FileName="Assets\MyAssets\LocalNavMeshBuilder.cs" Line="1" Column="1" />
-      <File FileName="Assets\MyAssets\NavMeshSourceTag.cs" Line="1" Column="19" />
-      <File FileName="Assets\HoloToolkit\Input\Scripts\Interactions\HandDraggable.cs" Line="280" Column="32" />
-      <File FileName="Assets\MyAssets\other\TapToShow.cs" Line="16" Column="45" />
+      <File FileName="Assets\MyAssets\MoveToTapPoint.cs" Line="12" Column="1" />
+      <File FileName="Assets\InkBullet.cs" Line="9" Column="32" />
+      <File FileName="Assets\ShootBullet.cs" Line="18" Column="3" />
+      <File FileName="Assets\InkPainter\Script\Core\InkCanvas.cs" Line="11" Column="1" />
+      <File FileName="Assets\MyAssets\SpatialMappingInkCanvas.cs" Line="41" Column="62" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\tanaka\Documents\MyUnity\Holo-NavMesh\Assets\InkPainter\Sample\Script\MousePainter.cs" line="29" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

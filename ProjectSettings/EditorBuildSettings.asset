@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/MyAssets/Main.unity
     guid: 8a868b656309bb04b9138b442619ec6e
+  - enabled: 1
+    path: Assets/MyAssets/HoloPaintScene.unity
+    guid: f3b214dcac1c51840a4e507c6c7d2442
